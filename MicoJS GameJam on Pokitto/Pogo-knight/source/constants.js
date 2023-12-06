@@ -1,0 +1,22 @@
+// constants.js
+const GRAVITY_UP = 300;
+const GRAVITY_DOWN = 220;
+const BOUNCE_VELOCITY = 240;
+const JET_VELOCITY = 160;
+const ANGULAR_VELOCITY = 150;
+
+const BOUNCE_TIME = 0.7;
+const HOLD_TIME = 0.35;
+
+const MAX_FUEL = 5;
+
+var LEFT_WALL_X = 10;
+var RIGHT_WALL_X = 210;
+const GROUND_Y = 55*32;
+
+const NO_COLLISION = 0;
+const COLLIDES_GROUND = 1;
+const COLLIDES_LEFT_WALL = 2;
+const COLLIDES_RIGHT_WALL = 3;
+const COLLIDES_TILE = 4;
+const COLLIDES_ENEMY = 5;
