@@ -1,6 +1,6 @@
 [# ESPboy_MicoJS](https://micojs.github.io)
 
-MicoJS - web IDE that supports multiple mcu-based platform like
+MicoJS - web IDE that supports multiple mcu-based platforms like
 
 - [ESPBoy](https://www.espboy.com/)
 - [Pokitto:](https://www.pokitto.com)
