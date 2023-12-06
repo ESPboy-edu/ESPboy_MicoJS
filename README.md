@@ -3,12 +3,12 @@
 MicoJS - web IDE that supports multiple mcu-based platforms like
 
 - [ESPBoy](https://www.espboy.com/)
-- [Pokitto:](https://www.pokitto.com)
-- [32Blit:](https://32blit.com/)
-- [ESPBoy:](https://www.espboy.com/)
-- [Gamebuino Meta:](https://gamebuino.com/gamebuino-meta)
-- [PicoSystem:](https://shop.pimoroni.com/products/picosystem)
-- [Galactic Unicorn:](https://shop.pimoroni.com/products/galactic-unicorn)
+- [Pokitto](https://www.pokitto.com)
+- [32Blit](https://32blit.com/)
+- [ESPBoy](https://www.espboy.com/)
+- [Gamebuino Meta](https://gamebuino.com/gamebuino-meta)
+- [PicoSystem](https://shop.pimoroni.com/products/picosystem)
+- [Galactic Unicorn](https://shop.pimoroni.com/products/galactic-unicorn)
 
 [MicoJS first GameJam is mainly organized by Pokitto community members](https://itch.io/jam/micojs-game-jam)
 
