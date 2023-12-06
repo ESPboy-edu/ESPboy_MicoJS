@@ -1,4 +1,4 @@
-[# ESPboy_MicoJS](https://micojs.github.io)
+# [ESPboy_MicoJS](https://micojs.github.io)
 
 MicoJS - web IDE that supports multiple mcu-based platforms like
 
